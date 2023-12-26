@@ -1,0 +1,32 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    /* margin: 20px; */
+    background:linear-gradient(50deg,rgba(88, 80, 80, 0.281),rgb(84, 241, 11));
+    text-decoration: none;
+}
+.navbar-nav{
+    display: flex;
+    text-decoration: none;
+    margin-right: 40px;
+    list-style-type: georgian;
+    color: rgb(0, 0, 0);
+ 
+}
+.navbar .a{
+    width: 50%;
+}
+.Nav-item
+{
+    padding:20px;
+    color: rgb(11, 49, 116);
+    font-style: oblique;
+    font-size: large;
+    
+    text-align: center;
+
+   
+}
+#td{
+    color: rgb(237, 255, 220 255, 220);
+}
